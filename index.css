@@ -1,0 +1,21 @@
+.form{
+    display: flex;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.mass{
+    padding-right: 80px;
+}
+
+h4{
+    text-align: center;
+}
+
+button{
+    padding-left: 20px;
+    padding-right: 20px;
+   margin-top: 20px;
+   margin-left: 50px;
+   background-color: green;
+   border-radius: 3px;
+}
